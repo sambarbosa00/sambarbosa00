@@ -7,6 +7,7 @@
 ## Status
 ![sambarbosa00's Stats](https://github-readme-stats.vercel.app/api?username=sambarbosa00&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![sambarbosa00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sambarbosa00&theme=vue-dark&hide_border=true)
+![sambarbosa00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sambarbosa00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## About
 Samuel Barbosa <br>
